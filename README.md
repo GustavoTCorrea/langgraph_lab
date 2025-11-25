@@ -1,7 +1,7 @@
 # langgraph-lab
 A personal lab for experimenting with LangChain, LangGraph, and LangSmith.
 
-This repository includes the folders lca-langchainV1-essentials and lca-langgraph-essentials, which come from the official LangChain Academy courses. You can obtain the originals directly from the Academy, but in this repo I've modified the code to use Google API Keys instead of OpenAI keys.
+This repository includes the folders lca-langchainV1-essentials and lca-langgraph-essentials, which come from the official LangChain Academy courses. You can obtain the originals directly from the Academy, but in this repo I've modified the code to use Google API Keys instead of OpenAI keys. I also only worked for now on the python subfolders of each of these folders, so the javascript code has not been adapted yet.
 The goal is to provide a free and accessible setup for learning and testing the ecosystem.
 
 Using Google AI Studio, you can generate API keys here: https://aistudio.google.com/api-keys
